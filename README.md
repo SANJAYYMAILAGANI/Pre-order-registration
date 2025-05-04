@@ -1,71 +1,21 @@
-📌 Project Title: Pre-Order Registration System
+# Uttarakhand-MATDAAN-E-Voting-2022
 
-🧠 Objective:
-To build a web-based platform where users can vote for their preferred device to be made available in an upcoming sale, helping businesses prioritize popular products and gauge demand.
+A Interactive Way To Solve Conventional Voting.
 
-🧰 Technologies Used:
-Frontend: HTML, CSS, JavaScript, Bootstrap
+MATDAAN E-Voting System" is an online voting system. In this system people
+who are citizens and whose age is above 18 years of age, and any gender can give his\her
+vote online without going to any physical pooling station.
 
-Backend: PHP
 
-Database: MySQL
+# Snapshots of Voting System
 
-⚙️ Key Features:
-User Voting Interface:
+<img align="left" src="https://github.com/GariBisht/Uttarakhand-MATDAAN-E-Voting-2022/blob/main/readme%20images/image-007.jpg?raw=true "/>
+<img align="left" src="https://github.com/GariBisht/Uttarakhand-MATDAAN-E-Voting-2022/blob/main/readme%20images/image-008.jpg?raw=true "/>
+<img align="left" src="https://github.com/GariBisht/Uttarakhand-MATDAAN-E-Voting-2022/blob/main/readme%20images/image-009.jpg?raw=true "/>
+<img align="left" src="https://github.com/GariBisht/Uttarakhand-MATDAAN-E-Voting-2022/blob/main/readme%20images/image-010.jpg?raw=true "/>
+<img align="left" src="https://github.com/GariBisht/Uttarakhand-MATDAAN-E-Voting-2022/blob/main/readme%20images/image-011.jpg?raw=true "/>
+<img align="left" src="https://github.com/GariBisht/Uttarakhand-MATDAAN-E-Voting-2022/blob/main/readme%20images/image-012.jpg?raw=true "/>
+<img align="left" src="https://github.com/GariBisht/Uttarakhand-MATDAAN-E-Voting-2022/blob/main/readme%20images/image-013.jpg?raw=true "/>
+<img align="left" src="https://github.com/GariBisht/Uttarakhand-MATDAAN-E-Voting-2022/blob/main/readme%20images/image-014.jpg?raw=true "/>
 
-Clean, intuitive UI where users can select and vote for a device from a list.
 
-Devices displayed with images and basic info (brand, model, specs).
-
-Vote Handling Logic:
-
-Votes are submitted via an HTML form to the backend using PHP.
-
-Each vote is recorded in the MySQL database, ensuring data integrity.
-
-Real-Time Results Display:
-
-Votes are counted dynamically and displayed with progress bars or charts.
-
-Users can see live updates of which device is most popular.
-
-Duplicate Vote Prevention (Optional/Stretch Feature):
-
-Logic can be added to limit users to one vote per session/email/IP to prevent misuse.
-
-🧪 Development Process:
-Designed responsive UI using Bootstrap.
-
-Created a MySQL schema to store device names and vote counts.
-
-Wrote PHP scripts for:
-
-Connecting to the database
-
-Submitting and updating vote counts
-
-Fetching data for live result visualization
-
-Tested application locally using XAMPP.
-
-📈 Outcome:
-Demonstrated integration of frontend and backend technologies in a real-world application.
-
-Gained practical experience in:
-
-Form handling and server-side scripting
-
-Database CRUD operations
-
-Dynamic content rendering
-
-Delivered a user-friendly, functional system useful for marketing, product launches, or surveys.
-
-💡 Future Improvements (Ideas):
-Add user login for personalized voting.
-
-Implement email confirmation for vote validation.
-
-Use AJAX for smoother, real-time updates without reloading the page.
-
-Add admin panel for adding/removing devices and monitoring stats.
