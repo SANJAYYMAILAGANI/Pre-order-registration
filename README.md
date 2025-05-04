@@ -1,4 +1,5 @@
 📌 Project Title: Pre-Order Registration System
+
 🧠 Objective:
 To build a web-based platform where users can vote for their preferred device to be made available in an upcoming sale, helping businesses prioritize popular products and gauge demand.
 
